@@ -1,20 +1,18 @@
 # Social-Media-site
 This site allows works exactly like Facebook with some added functionalities 
 
-## Screenshots
 
 ## Technologies Used
 * PHP
 * HTML CSS
 * MYSQL
 
-## Built By [Peter Kimanzi](https://github.com/peter-kimanzi)
+## Built By [francis_codex](https://github.com/francis_codex)
 
-## View screenshots of this project [sreenshots](https://peterkimanzi.netlify.app/careerpal.html) 
 
 ## License
 
-Copyright (c) 2022 Peter Kimazi
+Copyright (c) 2022 francis_codex
 
 ------------
 
